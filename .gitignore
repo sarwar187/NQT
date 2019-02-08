@@ -1,0 +1,9 @@
+data/*
+data/english.txt
+clir_it_en/*
+clir_it_en_large/*
+tiny_train/*
+weights/*
+index/*
+CLEF-ENG-ML-NEW/*
+CLEF-ENG-ML/*
