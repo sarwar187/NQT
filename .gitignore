@@ -5,9 +5,7 @@ clir_it_en_large/*
 tiny_train/*
 weights/*
 index/*
-<<<<<<< HEAD
 CLEF-ENG-ML-NEW/*
 CLEF-ENG-ML/*
-=======
-
->>>>>>> 16ab0bdfe00297d324a897271dadd1709bf248d1
+.ipynb_checkpoints/*
+logs/
