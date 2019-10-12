@@ -1,4 +1,4 @@
-# Transformer
+# Multi-task Transformer
 
 This is a pytorch implementation of the transformer model borrowed from the github repository of Samuel Lynn Evans. If you'd like to understand the model, or any of the code better, please refer to <a href=https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec>a tutorial by Samuel Lynn Evans</a>.
 
