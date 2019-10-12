@@ -1,6 +1,6 @@
 # Transformer
 
-This is a pytorch implementation of the transformer model borrowed from the github repository of Samuel Lynn Evans. If you'd like to understand the model, or any of the code better, please refer to <a href=https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec>my tutorial</a>.
+This is a pytorch implementation of the transformer model borrowed from the github repository of Samuel Lynn Evans. If you'd like to understand the model, or any of the code better, please refer to <a href=https://towardsdatascience.com/how-to-code-the-transformer-in-pytorch-24db27c8f9ec>a tutorial by Samuel Lynn Evans</a>.
 
 We used this model to train our neural query translation approach proposed in ACL '19 short paper titled as "A Multi-Task Architecture on Relevance-based Neural Query Translation" 
 
